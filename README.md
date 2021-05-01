@@ -19,5 +19,5 @@ on:
 - **SemEval-2020** Task 9: Overview of Sentiment Analysis of Code-Mixed Tweets (Patwa et al)[11].
 - **SemEval-2020** Task 12: Offensive Language Detection (Zampieri et al)[12].
 
-![Performance of BERTweet]()
+![Performance of BERTweet](https://user-images.githubusercontent.com/56854458/116765121-04bd6e00-aa24-11eb-9612-b8235ef8698e.png)
 
