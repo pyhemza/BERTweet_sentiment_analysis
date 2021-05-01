@@ -102,7 +102,7 @@ pip3 install --upgrade.
 
 ### Notebooks
 - BERTweet finetuning implementation on google colaboratory with `PyTorch` in the nootebook `BERTweet.ipynb`.
-- BERT finetuning implementation on google colaboratory with `PyTorch` in the nootebook `BERT vs BERTweet.ipynb`.
+- BERT base finetuning implementation on google colaboratory with `PyTorch` in the nootebook `BERT_base vs BERTweet.ipynb`.
 - RoBERTa finetuning implementation on google colaboratory with `PyTorch` in the nootebook `RoBERTa vs BERTweet.ipynb`.
 
 ###
